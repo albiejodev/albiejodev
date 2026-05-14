@@ -45,7 +45,7 @@ A fully event-driven ride-hailing backend built as **7 independent NestJS micros
 
 **Stack:** NestJS · RabbitMQ · MongoDB · PostgreSQL · Redis · Docker · TypeScript
 
-🔗 [View RideFlow GitHub Organization](#) *(link your org here)*
+🔗 [View RideFlow GitHub Organization](#) *(https://github.com/Rideflow-ride-sharing)*
 
 ---
 
