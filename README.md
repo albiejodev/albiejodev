@@ -6,7 +6,7 @@
 
 ## About Me
 
-Backend Software Engineer with **2+ years** building scalable, distributed systems in **Node.js and TypeScript**. I've re-architected monolithic platforms into microservices-based SaaS products, designed real-time systems, event-driven workflows, and full trip/ride lifecycle engines — both in production and as independent projects.
+Full stack Software Engineer with **3 years** building scalable, distributed systems in **Node.js , React & TypeScript**. I've re-architected monolithic platforms into microservices-based SaaS products, designed real-time systems, event-driven workflows, and full trip/ride lifecycle engines — both in production and as independent projects.
 
 I enjoy owning backend modules end-to-end — from API design to deployment — with a strong interest in **system design and high-throughput API architecture**. Working knowledge of React for full-stack support in lean teams.
 
