@@ -1,6 +1,6 @@
 # Hey, I'm Albin Joseph 👋
 
-> ⚠️ **Note:** My primary GitHub account is currently under review. Only my projects and contributions are being mirrored here while github support resolves it. The experience and projects below are real and actively maintained.
+> ⚠️ **Note:** My primary GitHub account is currently under review. Only my recent projects and contributions are being mirrored here while github support resolves it. The experience and projects below are real and actively maintained.
 
 ---
 
