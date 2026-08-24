@@ -6,7 +6,7 @@
 
 ## About Me
 
-Full Stack Software Engineer with **3 years of experience** building scalable backend systems, distributed applications, real-time platforms, and AI-powered applications using **Node.js, TypeScript, React, Python, and modern AI tooling**.
+Full Stack Software Engineer with **3 years of experience** building Impressive UI & scalable backend systems, distributed applications, real-time platforms, and AI-powered applications using **Node.js, TypeScript, React, Python, and modern AI tooling**.
 
 I've worked on production systems involving **microservices, multi-tenant SaaS, event-driven architecture, WebSockets, concurrent workflows, real-time bidding, geospatial systems, caching, and asynchronous messaging**.
 
