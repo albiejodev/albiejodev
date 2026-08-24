@@ -6,9 +6,13 @@
 
 ## About Me
 
-Full stack Software Engineer with **3 years** building scalable, distributed systems in **Node.js , React & TypeScript**. I've re-architected monolithic platforms into microservices-based SaaS products, designed real-time systems, event-driven workflows, and full trip/ride lifecycle engines — both in production and as independent projects.
+Full Stack Software Engineer with 3 years of experience building scalable backend systems, distributed applications, real-time platforms, and AI-powered applications using Node.js, TypeScript, React, Python, and modern AI tooling.
 
-I enjoy owning backend modules end-to-end — from API design to deployment — with a strong interest in **system design and high-throughput API architecture**. Working knowledge of React for full-stack support in lean teams.
+I've worked on production systems involving microservices, multi-tenant SaaS, event-driven architecture, WebSockets, concurrent workflows, real-time bidding, geospatial systems, caching, and asynchronous messaging.
+
+More recently, I've been building AI-native applications, including a production-oriented AI Voice Receptionist using streaming speech-to-text, LLM reasoning, text-to-speech, RAG, vector databases, tool calling, and LangGraph-based agent workflows.
+
+I enjoy solving problems where the interesting part isn't just making an API work, but designing the system behind it — handling concurrency, failures, real-time events, scalability, consistency, and performance.
 
 📍 Bengaluru, India &nbsp;|&nbsp; 📧 albiejosephs101@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/) &nbsp;|&nbsp; ✍️ [Medium](https://medium.com/@albiejosephs101)
 
