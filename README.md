@@ -41,7 +41,7 @@ I enjoy solving problems where the interesting part isn't just making an API wor
 
 > **Production system at Cloudesign Technology Services · Jul 2024 – May 2026**
 
-CloudTrack is a multi-tenant B2B logistics platform that I worked on for approximately two years. I contributed across the backend architecture and independently owned multiple production modules.
+CloudTrack is a multi-tenant B2B logistics platform that I worked on for  two years. I contributed across the frontend and backend architecture ,  independently owned multiple production modules.
 
 The platform involved **microservices, asynchronous communication, real-time tracking, financial workflows, auctions, notifications, and high-frequency operational APIs**.
 
